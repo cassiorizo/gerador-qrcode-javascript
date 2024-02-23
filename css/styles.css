@@ -14,7 +14,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #34db7a;
+    background-color: #dededf;
     /* Cor de fundo */
 }
 
@@ -92,7 +92,7 @@ body {
 }
 
 #qr-form button {
-    background-color: #086824;
+    background-color: #7746a5;
     /* Cor de fundo */
     color: #fff;
     /* Cor do texto */
