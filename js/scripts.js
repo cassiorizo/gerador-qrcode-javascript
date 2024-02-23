@@ -4,8 +4,6 @@ const qrCodeBtn = document.querySelector("#qr-form button"); // Botão para gera
 const qrCodeInput = document.querySelector("#qr-form input"); // Campo de entrada de texto
 const qrCodeImg = document.querySelector("#qr-code img"); // Elemento de imagem para exibir o QR code
 
-// Eventos associados aos elementos HTML
-
 // Função para gerar QR code
 function generateQrCode() {
     // Obter o valor da entrada de texto
